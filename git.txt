@@ -1,0 +1,26 @@
+echo "# hjkhan" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/harisjamalkhan111/hjkhan.git
+git push -u origin main
+
+git remote add origin https://github.com/harisjamalkhan111/hjkhan.git
+git branch -M main
+git push -u origin main
+
+git remote add orig https://github.com/researchwing/RTOS_vent.git
+git branch -M haris
+git push -u orig haris
+
+git remote add orig Fountech-ai-Limited/autom8-mvp/embedded/
+git branch -M main
+git push -u orig main
+
+$ git remote add job2 Fountech-ai-Limited/autom8-mvp
+
+git remote add demo https://github.com/harisjamalkhan111/Automn8.git
+git push -u demo main
+
+git remote add demo https://github.com/harisjamalkhan111/PythonAssignments.git
